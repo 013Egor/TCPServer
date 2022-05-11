@@ -9,7 +9,7 @@
 Server start:
 ```bash
 ~/$ cd bin
-~/bin/java java src.server.TCPServer #port
+~/bin/java src.server.TCPServer #port
 ```
 
 Client start:
